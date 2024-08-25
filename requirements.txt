@@ -13,6 +13,7 @@ cryptography==42.0.5
 dnspython==2.6.1
 email_validator==2.1.1
 Flask==2.0.0
+flask==2.2.2
 flask-api-key==0.2.12
 Flask-WTF==1.1.1
 fpdf==1.7.2
